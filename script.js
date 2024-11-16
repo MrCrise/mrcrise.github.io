@@ -1,5 +1,5 @@
 // Инициализация карты и обработчики событий
-DG.then(function () {
+DG.then(function () { 
     const map = DG.map('map', {
         center: [56.838011, 60.597465],
         zoom: 13
